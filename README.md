@@ -6,9 +6,15 @@ In this project, you'll classify images from the [CIFAR-10 dataset](https://www.
 ### Install
 This project uses the following software and Python libraries:
 
-- Python 3
+- Python 3.5
+- pandas 
+- matplotlib 
+- scipy scikit-learn
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html).
+
+To install tensorflow use command:
+```pip install tensorflow```
 
 To install all other dependency packages use command:  
 ```pip install -r floyd_requirements.txt```
